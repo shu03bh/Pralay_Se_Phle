@@ -1,12 +1,27 @@
+# Exclude all unnecessary heavy directories
 dataset/
 videos/
 screenshots/
 images/
 python code/
 script/
+
+# Exclude all heavy file types
 *.ipynb
 *.csv
 *.pkl
 *.h5
 *.zip
 *.mp4
+*.mp3
+*.avi
+*.mkv
+*.mov
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.tar
+*.gz
+__pycache__/
+.DS_Store
