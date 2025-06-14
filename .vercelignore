@@ -1,0 +1,12 @@
+dataset/
+videos/
+screenshots/
+images/
+python code/
+script/
+*.ipynb
+*.csv
+*.pkl
+*.h5
+*.zip
+*.mp4
